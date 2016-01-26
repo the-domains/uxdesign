@@ -1,0 +1,28 @@
+name: uxdesign
+favicon: null
+layout_spectrum: 0.7313182789366692
+typography_spectrum: 0.2928689983673394
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.6701063034124672
+  lightness: 0.9099653556477278
+  saturation: 0.8472768999636173
+  rhythmicContrast: 0.5057809804566205
+purpose: []
